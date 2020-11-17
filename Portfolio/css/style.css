@@ -1,0 +1,39 @@
+html,
+body,
+.docSlider {
+    height: 100%;
+}
+
+header {
+    height: 100%;
+    background: #003049 url("../img/undraw_product_iteration_kjok.svg") no-repeat bottom right;
+}
+
+main {
+    background-color: red;
+    height: 100%;
+}
+
+.logo {
+    width: 15vw;
+    height: 40vh;
+
+}
+
+@media all and (max-width: 992px) {
+    .logo {
+        width: 50vw;
+        height: 50vh;
+    }
+
+    svg {
+        height: 100%;
+    }
+}
+
+.definition {
+
+    height: 200px;
+}
+
+.summary {}
