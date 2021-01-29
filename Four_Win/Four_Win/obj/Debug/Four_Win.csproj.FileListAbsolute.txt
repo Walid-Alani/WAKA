@@ -1,0 +1,9 @@
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\bin\Debug\Four_Win.exe.config
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\bin\Debug\Four_Win.exe
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\bin\Debug\Four_Win.pdb
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\obj\Debug\Four_Win.Properties.Resources.resources
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\obj\Debug\Four_Win.csproj.GenerateResource.Cache
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\obj\Debug\Four_Win.exe
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\obj\Debug\Four_Win.pdb
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\obj\Debug\Four_Win.Main_frm.resources
+C:\Users\Walid\Documents\Visual Studio 2017\Projects\Four_Win\Four_Win\obj\Debug\Four_Win.csprojResolveAssemblyReference.cache
